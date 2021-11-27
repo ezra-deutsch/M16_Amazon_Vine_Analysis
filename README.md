@@ -6,14 +6,17 @@ The purpose of this analysis was to combine technologies (PySpark, Google Colab,
 
 ### Results
 
+Overall Helpful Reviews-
 * Total Number of Reviews: 			50,753
 * Total 5 Star Reviews:				23,497
 * % of Total 5 Star Reviews:			46.29%
 
+Helpful Vine Reviews-
 * Total Number of Vine Reviews:			1,080
 * Total 5 Star Vine Reviews:			454
 * % of 5 Star Vine Reviews:			42.04%
 
+Helpful non-Vine Review-
 * Total Number of non-Vine Reviews:		49,673
 * Total 5 Star non-Vine Reviews:		23,043
 * % of 5 Star non-Vine Reviews:			46.39%
