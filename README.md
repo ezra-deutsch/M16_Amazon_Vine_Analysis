@@ -21,8 +21,8 @@ Helpful non-Vine Review-
 * Total 5 Star non-Vine Reviews:		23,043
 * % of 5 Star non-Vine Reviews:			46.39%
 
-(![vine_review_stats](https://user-images.githubusercontent.com/88510296/143687432-73633351-0f7e-4b32-8322-2e7ed1111143.png)
-)
+![vine_review_stats](https://user-images.githubusercontent.com/88510296/143687432-73633351-0f7e-4b32-8322-2e7ed1111143.png)
+
 
 
 ### Summary
